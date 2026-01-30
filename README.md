@@ -1,4 +1,4 @@
-# Prashant Singh | Portfolio Website
+# | Portfolio Website
 
 <h2 align="center">
   Hi there! I'm Prashant Singh 👋
