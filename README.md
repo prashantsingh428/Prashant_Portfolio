@@ -1,76 +1,113 @@
+# Prashant Singh | Portfolio Website
+
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  Hi there! I'm Prashant Singh 👋
 </h2>
+
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blueviolet?style=for-the-badge&logo=code" alt="Role">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-MERN%20stack%20%26%20Data%20Science-success?style=for-the-badge&logo=mongodb" alt="Focus">
 </div>
 
 <br/>
 
-<center>
+<p align="center">
+  I am a <strong>Computer Science Engineering student</strong> specializing in <strong>Data Science</strong> at 
+  <strong>Noida Institute of Engineering and Technology</strong>. <br/>
+  I love building scalable full-stack applications and exploring data-driven technologies.
+  <br/>
+  <br/>
+  <a href="https://prashantsingh-portfolio.vercel.app/"><strong>Explore the Portfolio »</strong></a>
+  <br/>
+  <br/>
+  <a href="https://github.com/prashantsingh428">View Profile</a>
+  ·
+  <a href="https://github.com/prashantsingh428/Prashant_Portfolio/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/prashantsingh428/Prashant_Portfolio/issues">Request Feature</a>
+</p>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+<br/>
 
-</center>
+## 💻 About Me
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+I am a passionate software developer from **Bhubaneswar, India**, with expertise in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and a strong background in **Java** and **Data Structures**.
 
-## TL;DR
+My key areas of interest include:
+- **Full Stack Development**: Building responsive and scalable web applications.
+- **Data Science & AI**: analyzing large datasets and building intelligent systems.
+- **System Design**: Architecting efficient and reliable software solutions.
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+Beyond coding, I enjoy **Reading Non-Fiction**, **Exploring New Technologies**, and **Traveling**.
 
-## Built With
+---
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+## 🛠 Tech Stack
 
-This project was built using these technologies.
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=azure-sql&logoColor=white)
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Features
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-**📖 Multi-Page Layout**
+### Tools & DevOps
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+---
 
-**📱 Fully Responsive**
+## 🚀 Projects
 
-## Getting Started
+### 1. VibeShare
+**Description**: A social web platform built with **Node.js, Express, EJS, and MongoDB**. It allows users to share memories, personal notes, and images in a simple and intuitive space.  
+**Features**: User Authentication, Profile Management, Media Uploads.  
+[View Code](https://github.com/prashantsingh428/VibeShare-BlogWesite.git)
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+### 2. Scatch
+**Description**: A modern **e-commerce web application** designed for discovering and purchasing fashion products.  
+**Features**: Product Browsing, Category Filtering, Cart Management, Responsive UI.  
+[View Code](https://github.com/prashantsingh428/BackendProject.Scatch.git)
 
-## 🛠 Installation and Setup Instructions
+### 3. Tech Job Market Analyzer
+**Description**: A **full-stack MERN application** that helps users find relevant tech jobs based on their skills.  
+**Features**: Job Trend Analysis, Skill Matching, Data-Driven Insights.  
+[View Code](https://github.com/prashantsingh428/Tech-Job-Market-Analyzer.git)
 
-1. Installation: `npm install`
+---
 
-2. In the project directory, you can run: `npm start`
+## 📊 GitHub Stats
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantsingh428&show_icons=true&theme=omni" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsingh428&layout=compact&theme=omni" height="150" alt="languages graph" />
+</div>
 
-## Usage Instructions
+---
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+## 📬 Connect with Me
 
-### Show your support
+- **LinkedIn**: [Prashant Singh](https://www.linkedin.com/in/prashant-singh-687290309/)
+- **GitHub**: [prashantsingh428](https://github.com/prashantsingh428)
+- **Twitter/X**: [@prashant_428](https://x.com/prashant_428)
 
-Give a ⭐ if you like this website!
+---
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<p align="center">
+  Designed and Developed by <strong>Prashant Singh</strong>
+</p>

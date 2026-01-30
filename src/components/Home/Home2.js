@@ -19,24 +19,24 @@ function Home2() {
               systems and intuitive user experiences.
               <br />
               <br />
-              I’m proficient in
+              I’m a MERN stack developer proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript, Node.js, MongoDB, Express, and React.{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              I enjoy building scalable full-stack applications and working across frontend, backend, and data-driven features.
               <br />
               <br />
-              My key areas of interest include developing
+              My key areas of interest include
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  AI/ML{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              and working with large-scale (big) data to build intelligent, data-driven systems.
               <br />
               <br />
               Whenever possible, I love building projects with
